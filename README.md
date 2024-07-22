@@ -2,4 +2,4 @@
 This is my first git repository as AI beginner.
 <br/>
 <b/>
-Author Faisal zia
+Author Faisal zia (AI-beginner)
